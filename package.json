@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tvorogtvoeybabushki.github.io/Search-air-tickets/",
+  "homepage": "https://github.com/lykovaanna/Searching-Air-tickets.git",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
